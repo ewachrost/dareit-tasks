@@ -1,0 +1,1 @@
+https://storage.googleapis.com/kubelek_ewy_ch/index.html
