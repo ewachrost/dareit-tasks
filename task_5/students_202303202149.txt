@@ -1,8 +1,0 @@
-|id |lastname|firstname|email                   |city    |age|
-|---|--------|---------|------------------------|--------|---|
-|0  |Ewa     |Chrost   |ewanowosielska@gmail.com|London  |36 |
-|1  |Ida     |Chrost   |aa@gmail.com            |Gdynia  |13 |
-|2  |Ala     |Chrost   |aaa@gmail.com           |Sopot   |15 |
-|3  |Ela     |Chrost   |aaaa@gmail.com          |Warszawa|17 |
-|4  |Ula     |Chrost   |aaaaa@gmail.com         |Gdańsk  |19 |
-|5  |Ada     |Chrost   |aaaaaa@gmail.com        |Wrocław |21 |
